@@ -16,5 +16,5 @@ Progetti e esercizi relativi al corso di Data security dell'università di Firen
 2. Timing attack contro esponenziazione modulare (Kocher 1996)
 
 ## Programmazione
-1. Implementazione di algoritmi per crittografia a chiave pubblica
+1. Implementazione di algoritmi per crittografia a chiave pubblica (RSA)
 2. Implementazione del Timing attack
