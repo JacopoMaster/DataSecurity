@@ -16,7 +16,13 @@ Progetti e esercizi relativi al corso di Data security dell'università di Firen
 2. Timing attack contro esponenziazione modulare (Kocher 1996)
 
 ## Programmazione
-1. Implementazione di algoritmi per crittografia a chiave pubblica (RSA)
+1. Implementazione di algoritmi per crittografia a chiave pubblica:
+   - Algoritmo di Euclide esteso.
+   - Algoritmo di esponenziazione modulare veloce.
+   - Test di Miller-Rabin.
+   - Algoritmo per la generazione di numeri primi.
+   - Schema RSA, con e senza ottimizzazione CRT.
+    
 2. Implementazione del Timing attack
 
 # Set 3
