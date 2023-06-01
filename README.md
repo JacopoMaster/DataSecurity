@@ -1,5 +1,5 @@
 # DataSecurity
-Progetti e esercizi relativi al corso di Data security dell'università di Firenze, il corso prevede lo svolgimento di 3 set di esercizi ognuno dei quali comprende 2 esercizi teorici di approfondimento e 2 esercizi di programmazione. 
+Progetti e esercizi relativi al corso di Data security dell'università di Firenze, il corso prevede lo svolgimento di 3 set di esercizi ognuno dei quali comprende 2 esercizi teorici di approfondimento (fatta eccezione per il terzo set dove ne è richiesto uno solo) e 2 esercizi di programmazione. 
 
 # Set 1
 ## Teoria
@@ -18,3 +18,11 @@ Progetti e esercizi relativi al corso di Data security dell'università di Firen
 ## Programmazione
 1. Implementazione di algoritmi per crittografia a chiave pubblica (RSA)
 2. Implementazione del Timing attack
+
+# Set 3
+## Teoria
+1. Sequenze tipiche
+
+## Programmazione
+1. Codici di Huffman
+2. Compressione di digrammi
